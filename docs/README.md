@@ -1,4 +1,4 @@
-[pins](nexus-sense-pins.png)
+![pins](nexus-sense-pins.png)
 
 # Nexus SENSE
 
