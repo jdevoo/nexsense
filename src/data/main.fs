@@ -7,7 +7,7 @@
 DEFINED? --sense [if] forget --sense [then]
 create --sense
 
-s" /spiffs/sense.fs"    included
 s" /spiffs/config.fs"   included
+s" /spiffs/sense.fs"    included
 s" /spiffs/tests.fs"    included
 
